@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_Quiz-Maker/static/css/main.2eb35c71.css",
+    "main.js": "/React_Quiz-Maker/static/js/main.679c9002.js",
+    "static/js/453.8d99e0b0.chunk.js": "/React_Quiz-Maker/static/js/453.8d99e0b0.chunk.js",
+    "index.html": "/React_Quiz-Maker/index.html",
+    "main.2eb35c71.css.map": "/React_Quiz-Maker/static/css/main.2eb35c71.css.map",
+    "main.679c9002.js.map": "/React_Quiz-Maker/static/js/main.679c9002.js.map",
+    "453.8d99e0b0.chunk.js.map": "/React_Quiz-Maker/static/js/453.8d99e0b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eb35c71.css",
+    "static/js/main.679c9002.js"
+  ]
+}
