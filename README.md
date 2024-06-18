@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# A Quiz Maker project built and designed with React that allows you to set a quiz, answer the quiz and also see the quiz results 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
